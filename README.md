@@ -1,0 +1,1 @@
+# docker-nginx-auto-certbot
